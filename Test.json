@@ -52,11 +52,19 @@
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
-     {
+    {
         "AvatarItemType": 0,
         "AvatarItemDesc": "f76b709c-b173-426e-81f2-279a67d2fde1,mZ2ASMrs80axStLp9g1enA,6ce21c65-f4e9-41ac-be94-8eb1a08d5c76,",
         "PlatformMask": -1,
         "FriendlyName": "Golfer Shirt (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "2786fc22-3d6c-440d-afcc-15890c061577,mZ2ASMrs80axStLp9g1enA,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Bee antennas (Dunks)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
