@@ -213,6 +213,24 @@
         "Rarity": 50
     },
     {
+        "AvatarItemDesc":"2bd53190-46f8-4956-9388-87c5a04efc4f,48abd952-214f-48b2-a8f1-1146f6f69aa2,qC66Hu6yKEu2Res2o2z1Kw,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Rainhat (Comehere Contest Dunks)",
+        "Tooltip":"Made by @Dunks",
+        "Rarity":50,
+        "CreatedAt":"1942-07-08T19:52:47.577Z",
+    },
+    {
+        "AvatarItemDesc":"9e6397dd-b7b0-4d32-8c86-1910106a8478,48abd952-214f-48b2-a8f1-1146f6f69aa2,dMDMDExSmEKOF_kQIHaowg,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Raincoat (Comehere Contest Dunks)",
+        "Tooltip":"Made by @Dunks",
+        "Rarity":50,
+        "CreatedAt":"1942-07-08T19:52:47.577Z",
+    },
+    {
         "AvatarItemType": 0,
         "AvatarItemDesc": "1a742ff9-c4f7-45d8-8e24-8f24aa021db2,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
         "PlatformMask": -1,
