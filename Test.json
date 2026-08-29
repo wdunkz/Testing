@@ -334,6 +334,62 @@
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
+        {
+       "AvatarItemDesc": "c3745cee-d87e-4a23-b6e2-64ebf05c8b11,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Deep Sea Diver Suit ( White, Black )",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
+    {
+       "AvatarItemDesc": "8d97303c-5138-4da1-a74d-378da19d11cb,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Deep Sea Diver Tank ( White, Black )",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
+    {
+       "AvatarItemDesc": "b1c3ccc8-91d7-434e-b9cc-bd632fffc01b,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Deep Sea Diver Gloves ( White, Black )",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
+    {
+       "AvatarItemDesc": "4fcb5b84-13a9-43e6-9680-72b17874ae53,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Deep Sea Diver Helmet ( White, Black )",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
+    {
+       "AvatarItemDesc": "4fcb5b84-13a9-43e6-9680-72b17874ae53,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Golfer Shirt ( Red, Black )",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
+    {
+       "AvatarItemDesc": "2faa26b6-f7c3-4b0d-8f70-1f9454e64a54,PR5dh2jf2kqGLO0lXgA69A,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Golfer Hat ( Red, Black )",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
+    {
+       "AvatarItemDesc": "eada710d-ea0c-473f-b9c6-23e210607b24,PR5dh2jf2kqGLO0lXgA69A,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Golfer Gloves ( Red, Black )",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
     {
         "AvatarItemDesc": "5b6535f0-86cd-417a-bcce-a1ace9a5f260,d1eb3573-672c-4bb4-9ec5-7c81e6a38d3d,6094370d-5e28-473a-b422-f3f1c75d5db8,",
         "AvatarItemType": 0,
