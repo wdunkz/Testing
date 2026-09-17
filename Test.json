@@ -12,6 +12,54 @@
         "CreatedAt": "2017-04-05T23:43:35.977Z",
         "ThumbnailImage": "32boa62st14xrnw6alwpdqer3.png"
     },
+        {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "df0e06c4-8ba6-4d7a-bfb2-3759d8fe88c7,pY3RdcA2lU6H5rVXp8csfg,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Skeleton Hoodie (Blue Heart)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "df0e06c4-8ba6-4d7a-bfb2-3759d8fe88c7,5JQPQ2JBUkSFyXeYWvr4tA,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Skeleton Hoodie (Orange Heart)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "df0e06c4-8ba6-4d7a-bfb2-3759d8fe88c7,omnSzDLD5ESCU6ndropzPQ,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Skeleton Hoodie (Purple Heart)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "df0e06c4-8ba6-4d7a-bfb2-3759d8fe88c7,1Cbw9819NE-Fmv1NQIYKow,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Skeleton Hoodie (Red Heart)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "28e5dd74-7963-42cf-aa68-f8005aaf312e,0jnL66i2_kGjfzDBc8ZNSQ,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Skeleton Hoodie (Heart Set)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+       "AvatarItemDesc": "11462b96-dd62-4057-a187-49d8322c009a,e69372eb-2fd8-4e17-a448-ee0be61a2c7a,,",
+       "AvatarItemType": 0,
+       "FriendlyName": "Costume Tank",
+       "PlatformMask": -1,
+       "Rarity": 50,
+       "Tooltip": "Made by @Dunks"
+    },
     {
        "AvatarItemDesc": "1596c113-aa3a-4f5c-b398-e5c3575548e7,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
        "AvatarItemType": 0,
